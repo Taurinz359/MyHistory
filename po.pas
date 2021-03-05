@@ -1,4 +1,4 @@
-program Poisk;
+program Find;
 function Po (find,xWord:string):integer;
 var i,j,k: integer;index:integer=0;fword:string;
 begin
