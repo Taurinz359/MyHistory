@@ -60,8 +60,6 @@ begin
         WriteSymbol;
 end;
 
-
-var width,height:integer;
 begin
 	clrscr;
 	calculation;
