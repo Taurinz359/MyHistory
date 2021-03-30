@@ -5,9 +5,8 @@ type
 		data:integer;
 		next:linklist;
 	end;
-var n,i:integer;first,tmp,buffer:linklist;
+var n:integer;first,tmp,buffer:linklist;
 begin
-	i:=0;
 	new(first);
 	first:=nil;
 	while not  Seekeof do 
